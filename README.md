@@ -31,6 +31,5 @@
 `output/<dataset_name>/fake_B`
 
 ## Acknowledgments 
-Code is modified on Pytorch implementation of CycleGAN (https://github.com/aitorzip/PyTorch-CycleGAN).  
-Origianl paper:A Style-Aware Content Loss for Real-time HD Style Transfer (https://arxiv.org/pdf/1807.10201.pdf).
-
+Origianl paper: A Style-Aware Content Loss for Real-time HD Style Transfer (https://arxiv.org/pdf/1807.10201.pdf).
+Code is based on Pytorch implementation of CycleGAN (https://github.com/aitorzip/PyTorch-CycleGAN) and Code is based on Tensorflow implementation adaptive-style-transfer (https://github.com/CompVis/adaptive-style-transfer).  
