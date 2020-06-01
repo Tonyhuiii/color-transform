@@ -1,5 +1,6 @@
 # color-transform
-
+origianl paper: A Style-Aware Content Loss for Real-time HD Style Transfer (https://arxiv.org/pdf/1807.10201.pdf).  
+! [] (https://github.com/Tonyhuiii/color-transform/blob/master/1.jpeg)
 ## Environment
 ● Ubuntu 18.04  
 ● NVIDIA TITIAN RTX  
@@ -31,5 +32,5 @@
 `output/<dataset_name>/fake_B`
 
 ## Acknowledgments 
-Origianl paper: A Style-Aware Content Loss for Real-time HD Style Transfer (https://arxiv.org/pdf/1807.10201.pdf).
-Code is based on Pytorch implementation of CycleGAN (https://github.com/aitorzip/PyTorch-CycleGAN) and Code is based on Tensorflow implementation adaptive-style-transfer (https://github.com/CompVis/adaptive-style-transfer).  
+Code is based on Pytorch implementation of CycleGAN (https://github.com/aitorzip/PyTorch-CycleGAN);  
+Tensorflow implementation adaptive-style-transfer (https://github.com/CompVis/adaptive-style-transfer).  
