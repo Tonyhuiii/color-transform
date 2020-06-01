@@ -1,4 +1,4 @@
-# color-transform
+# Color-Transform
 origianl paper: A Style-Aware Content Loss for Real-time HD Style Transfer (https://arxiv.org/pdf/1807.10201.pdf).  
 ![](https://github.com/Tonyhuiii/color-transform/blob/master/1.jpeg).
 ## Environment
