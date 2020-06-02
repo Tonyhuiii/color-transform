@@ -33,4 +33,4 @@ origianl paper: A Style-Aware Content Loss for Real-time HD Style Transfer (http
 
 ## Acknowledgments 
 Code is based on Pytorch implementation of CycleGAN (https://github.com/aitorzip/PyTorch-CycleGAN);  
-Tensorflow implementation adaptive-style-transfer (https://github.com/CompVis/adaptive-style-transfer).  
+Tensorflow implementation of adaptive-style-transfer (https://github.com/CompVis/adaptive-style-transfer).  
